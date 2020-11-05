@@ -1,0 +1,88 @@
+
+h1 {
+    color: rgb(207, 192, 192);
+    font-family: Verdana;
+    font-size: 60px;
+    border: 5px solid #5D6063;
+    margin-right:1730px;
+    margin-left: 50px;
+    padding-top:10px;
+    padding-bottom: 5px;  
+    background-color:rgb(145, 93, 34);
+    text-align: center;
+}
+
+
+ h2 {
+    color: rgb(175, 0, 0);
+    font-family:Verdana;
+ }
+
+h3{
+    color: blueviolet;
+    font-family:Verdana;
+}
+
+
+body {
+    background-color: rgb(207, 192, 192);
+}
+
+
+#nombre_zapatilla{
+    font-size: 30px;
+    color: rgb(153, 47, 47);
+}
+
+a {
+    text-decoration:none;   
+    color:none;
+}
+
+.vuelta{
+    color: rgb(207, 192, 192);
+    font-family: Verdana;
+    font-size: 55px;
+    border: 5px solid #5D6063;
+    margin-left: 50px; 
+   
+    padding-top:30px;
+    padding-bottom:30px;  
+    background-color:rgb(145, 93, 34);
+    text-align: center;
+
+
+
+}
+
+
+
+div{
+    width: 29%;
+    background-color:rgb(145, 93, 34);
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+p{
+    font-family:Verdana;
+}
+
+ol{
+    font-family:Verdana;
+}
+
+ul{
+    font-family:Verdana;
+}
+
+table{
+    background-color: rgb(247, 133, 156);
+    font-family:Verdana;
+}
+
+h4{
+    font-family:Verdana;
+}
